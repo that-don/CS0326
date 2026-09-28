@@ -1,0 +1,122 @@
+[
+  {
+    "timestamp": "Jan 10 08:02:45",
+    "ip": "231.206.191.151",
+    "dettagli_attacco": "Tentativo di attacco a forza bruta (brute-force) o a dizionario (dictionary attack) tramite SSH. Tentativo di accesso come utente 'test'.",
+    "livello_rischio": "Medio"
+  },
+  {
+    "timestamp": "Jan 10 08:02:59",
+    "ip": "186.6.52.188",
+    "dettagli_attacco": "Tentativo di attacco a forza bruta (brute-force) o a dizionario (dictionary attack) tramite SSH. Tentativo di accesso come utente 'postgres'.",
+    "livello_rischio": "Medio"
+  },
+  {
+    "timestamp": "Jan 10 08:03:14",
+    "ip": "25.25.61.132",
+    "dettagli_attacco": "Tentativo di attacco a forza bruta (brute-force) o a dizionario (dictionary attack) tramite SSH. Tentativo di accesso come utente 'root'.",
+    "livello_rischio": "Medio"
+  },
+  {
+    "timestamp": "Jan 10 08:03:47",
+    "ip": "46.59.23.16",
+    "dettagli_attacco": "Attacco a forza bruta (brute-force) o a dizionario (dictionary attack) tramite SSH in corso. Numerosi tentativi di accesso falliti da questo IP in breve tempo. Tentativo di accesso come utente 'postgres'.",
+    "livello_rischio": "Alto"
+  },
+  {
+    "timestamp": "Jan 10 08:03:48",
+    "ip": "46.59.23.16",
+    "dettagli_attacco": "Attacco a forza bruta (brute-force) o a dizionario (dictionary attack) tramite SSH in corso. Numerosi tentativi di accesso falliti da questo IP in breve tempo. Tentativo di accesso come utente 'oracle'.",
+    "livello_rischio": "Alto"
+  },
+  {
+    "timestamp": "Jan 10 08:03:52",
+    "ip": "46.59.23.16",
+    "dettagli_attacco": "Attacco a forza bruta (brute-force) o a dizionario (dictionary attack) tramite SSH in corso. Numerosi tentativi di accesso falliti da questo IP in breve tempo. Tentativo di accesso come utente 'root'.",
+    "livello_rischio": "Alto"
+  },
+  {
+    "timestamp": "Jan 10 08:03:54",
+    "ip": "46.59.23.16",
+    "dettagli_attacco": "Attacco a forza bruta (brute-force) o a dizionario (dictionary attack) tramite SSH in corso. Numerosi tentativi di accesso falliti da questo IP in breve tempo. Tentativo di accesso come utente 'guest'.",
+    "livello_rischio": "Alto"
+  },
+  {
+    "timestamp": "Jan 10 08:03:54",
+    "ip": "46.59.23.16",
+    "dettagli_attacco": "Attacco a forza bruta (brute-force) o a dizionario (dictionary attack) tramite SSH in corso. Numerosi tentativi di accesso falliti da questo IP in breve tempo. Tentativo di accesso come utente 'postgres'.",
+    "livello_rischio": "Alto"
+  },
+  {
+    "timestamp": "Jan 10 08:03:56",
+    "ip": "46.59.23.16",
+    "dettagli_attacco": "Attacco a forza bruta (brute-force) o a dizionario (dictionary attack) tramite SSH in corso. Numerosi tentativi di accesso falliti da questo IP in breve tempo. Tentativo di accesso come utente 'root'.",
+    "livello_rischio": "Alto"
+  },
+  {
+    "timestamp": "Jan 10 08:03:57",
+    "ip": "46.59.23.16",
+    "dettagli_attacco": "Attacco a forza bruta (brute-force) o a dizionario (dictionary attack) tramite SSH in corso. Numerosi tentativi di accesso falliti da questo IP in breve tempo. Tentativo di accesso come utente 'root'.",
+    "livello_rischio": "Alto"
+  },
+  {
+    "timestamp": "Jan 10 08:03:57",
+    "ip": "46.59.23.16",
+    "dettagli_attacco": "Attacco a forza bruta (brute-force) o a dizionario (dictionary attack) tramite SSH in corso. Numerosi tentativi di accesso falliti da questo IP in breve tempo. Tentativo di accesso come utente 'root'.",
+    "livello_rischio": "Alto"
+  },
+  {
+    "timestamp": "Jan 10 08:03:59",
+    "ip": "46.59.23.16",
+    "dettagli_attacco": "Attacco a forza bruta (brute-force) o a dizionario (dictionary attack) tramite SSH in corso. Numerosi tentativi di accesso falliti da questo IP in breve tempo. Tentativo di accesso come utente 'postgres'.",
+    "livello_rischio": "Alto"
+  },
+  {
+    "timestamp": "Jan 10 08:04:01",
+    "ip": "46.59.23.16",
+    "dettagli_attacco": "Attacco a forza bruta (brute-force) o a dizionario (dictionary attack) tramite SSH in corso. Numerosi tentativi di accesso falliti da questo IP in breve tempo. Tentativo di accesso come utente 'test'.",
+    "livello_rischio": "Alto"
+  },
+  {
+    "timestamp": "Jan 10 08:04:04",
+    "ip": "46.59.23.16",
+    "dettagli_attacco": "Attacco a forza bruta (brute-force) o a dizionario (dictionary attack) tramite SSH in corso. Numerosi tentativi di accesso falliti da questo IP in breve tempo. Tentativo di accesso come utente 'root'.",
+    "livello_rischio": "Alto"
+  },
+  {
+    "timestamp": "Jan 10 08:04:04",
+    "ip": "46.59.23.16",
+    "dettagli_attacco": "Attacco a forza bruta (brute-force) o a dizionario (dictionary attack) tramite SSH in corso. Numerosi tentativi di accesso falliti da questo IP in breve tempo. Tentativo di accesso come utente 'user'.",
+    "livello_rischio": "Alto"
+  },
+  {
+    "timestamp": "Jan 10 08:04:06",
+    "ip": "46.59.23.16",
+    "dettagli_attacco": "Attacco a forza bruta (brute-force) o a dizionario (dictionary attack) tramite SSH in corso. Numerosi tentativi di accesso falliti da questo IP in breve tempo. Tentativo di accesso come utente 'postgres'.",
+    "livello_rischio": "Alto"
+  },
+  {
+    "timestamp": "Jan 10 08:04:07",
+    "ip": "46.59.23.16",
+    "dettagli_attacco": "Attacco a forza bruta (brute-force) o a dizionario (dictionary attack) tramite SSH in corso. Numerosi tentativi di accesso falliti da questo IP in breve tempo. Tentativo di accesso come utente 'root'.",
+    "livello_rischio": "Alto"
+  },
+  {
+    "timestamp": "Jan 10 08:04:07",
+    "ip": "46.59.23.16",
+    "dettagli_attacco": "Attacco a forza bruta (brute-force) o a dizionario (dictionary attack) tramite SSH in corso. Numerosi tentativi di accesso falliti da questo IP in breve tempo. Tentativo di accesso come utente 'root'.",
+    "livello_rischio": "Alto"
+  },
+  {
+    "timestamp": "Jan 10 08:04:09",
+    "ip": "46.59.23.16",
+    "dettagli_attacco": "Attacco a forza bruta (brute-force) o a dizionario (dictionary attack) tramite SSH in corso. Numerosi tentativi di accesso falliti da questo IP in breve tempo. Tentativo di accesso come utente 'user'.",
+    "livello_rischio": "Alto"
+  },
+  {
+    "timestamp": "Jan 10 08:04:10",
+    "ip": "46.59.23.16",
+    "dettagli_attacco": "Attacco a forza bruta (brute-force) o a dizionario (dictionary attack) tramite SSH in corso. Numerosi tentativi di accesso falliti da questo IP in breve tempo. Tentativo di accesso come utente 'root'.",
+    "livello_rischio": "Alto"
+  }
+]
